@@ -11,13 +11,5 @@ public class Testar {
         // ! Erro Gerente gerente = new Funcionario() pois Funcionario nao pode receber
         // ? POLIMORFISMO: Correto => Funcionario Gerente = new Gerente();
         // !Erro: Funcionario wallison = new Funcionario();
-
-        Gerente G = new Gerente();
-
-        Funcionario designer = new Designer();
-
-        Funcionario gerente = new Gerente();
-
-        CtrlBonificacao controleBonus = new CtrlBonificacao();
     }
 }
